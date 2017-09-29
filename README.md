@@ -31,3 +31,6 @@ $ git remote -v //远程主机地址
 
 
 $ git remote add origin git@github.com:defnngj/hibernate-demo.git  //添加远程主机。
+
+
+$ git config --list查看全局配置属性
